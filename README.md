@@ -1,12 +1,8 @@
 <h1>⚡ Abhinav Rana</h1>
 
-<h3>Data Science Enthusiast | AI/ML Developer | Full Stack Developer</h3>
+<h3>Data Science | AI/ML Developer | Full Stack Developer</h3>
 
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F7FF&center=false&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Data+Science+Enthusiast;AI%2FML+Developer;Full+Stack+Developer;Always+Learning+New+Technologies"
-alt="Typing SVG" />
-
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D1FF&center=false&vCenter=true&width=650&height=35&lines=Data+Science+%26+Artificial+Intelligence" alt="Typing SVG" />
 
 <a href="https://abhinav-rana.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -34,9 +30,7 @@ alt="Typing SVG" />
 
 I am a **B.Tech Computer Science & Engineering** student at **Lovely Professional University** with a strong interest in **Data Science, Artificial Intelligence, Machine Learning, and Full Stack Development**.
 
-I enjoy building intelligent applications that combine **AI models**, **data-driven insights**, and **modern web technologies** to solve real-world problems. My focus is on continuously learning, creating impactful projects, and preparing for software engineering and AI roles.
-
----
+I enjoy developing real-world applications that combine **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **modern web technologies** to solve practical problems. I am passionate about continuous learning, building impactful projects, and applying technology to create meaningful solutions.
 
 - 🔭 **Current Focus:** AI/ML, Data Science & Full Stack Development
 - 🎓 **Education:** B.Tech in Computer Science & Engineering
@@ -69,7 +63,7 @@ A full-stack web application that connects customers with nearby skilled workers
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
----
+--- 
 
 ## 🤝 Research Collaboration Platform
 
@@ -80,7 +74,6 @@ An AI-powered platform that connects students and researchers based on their res
 **Tech:** Python, React.js, Node.js, Express.js, MongoDB, Machine Learning
 
 ---
----
 
 # 🏆 Certifications
 
@@ -89,5 +82,18 @@ An AI-powered platform that connects students and researchers based on their res
 - 🗄️ **Oracle Data Platform 2025 Certified Foundations Associate** - Oracle
 - 🌐 **Responsive Web Design** – freeCodeCamp
 - 💻 **Human and Computer Interaction** – NPTEL
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhinavRana11&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRana11&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhinavRana11&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
