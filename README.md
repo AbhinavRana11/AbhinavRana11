@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # ⚡ Abhinav Rana
 
@@ -43,7 +43,7 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
 ### 💻 Programming Languages
 
@@ -65,7 +65,7 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 </tr>
 
 <tr>
-<td align="center">
+<td >
 
 ### ⚙️ Backend Development
 
@@ -75,7 +75,7 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 
 </td>
 
-<td align="center">
+<td >
 
 ### 🗄️ Database
 
@@ -87,7 +87,7 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 </tr>
 
 <tr>
-<td align="center">
+<td >
 
 ### 🤖 AI / Machine Learning
 
@@ -103,7 +103,8 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 
 </td>
 
-<td align="center">
+<td >
+
 
 ### 🛠️ Tools & Platforms
 
