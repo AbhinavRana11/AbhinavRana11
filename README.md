@@ -2,11 +2,7 @@
 
 <strong>Data Science | AI/ML Developer | Full Stack Developer</strong>
 
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D1FF&width=650&height=35&lines=Data+Science+%26+Artificial+Intelligence" alt="Typing SVG"/>
-
-<br><br>
 
 <a href="https://abhinav-rana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/abhinav-rana54/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
