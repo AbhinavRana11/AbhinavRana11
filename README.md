@@ -132,9 +132,25 @@ An AI-powered platform that connects students and researchers based on their res
 
 </p>
 
----#
+---
 
-👀 Profile Views
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavRana11&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavRana11&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+#👀 Profile Views
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=AbhinavRana11&label=Profile%20Views&color=0e75b6&style=flat"/>
