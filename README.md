@@ -83,6 +83,14 @@ An AI-powered platform that connects students and researchers based on their res
 
 ---
 
+#👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AbhinavRana11&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -96,13 +104,6 @@ An AI-powered platform that connects students and researchers based on their res
 
 ---
 
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=AbhinavRana11&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 # 🤝 Connect With Me
 
@@ -140,13 +141,6 @@ An AI-powered platform that connects students and researchers based on their res
 
 ---
 
-#👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=AbhinavRana11&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
