@@ -57,3 +57,27 @@ I enjoy building intelligent applications that combine **AI models**, **data-dri
 | **Data Science & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Daily Labour Platform
+
+A full-stack web application that connects customers with nearby skilled workers, including plumbers, electricians, carpenters, painters, and house cleaners.
+
+**Impact:** Simplified worker discovery through location-based services with a seamless booking experience.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+---
+
+## 🤝 Research Collaboration Platform
+
+An AI-powered platform that connects students and researchers based on their research interests to encourage collaboration and innovative project development.
+
+**Impact:** Streamlined researcher discovery and enabled intelligent collaborator recommendations.
+
+**Tech:** Python, React.js, Node.js, Express.js, MongoDB, Machine Learning
+
+---
