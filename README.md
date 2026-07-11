@@ -38,6 +38,87 @@ I am a **B.Tech Computer Science & Engineering** student at **Lovely Professiona
 
 I enjoy building intelligent applications that combine **AI models**, **data-driven insights**, and **modern web technologies** to solve real-world problems. My focus is on continuously learning, creating impactful projects, and preparing for software engineering and AI roles.
 
+
+# 🛠️ Advanced Tech Stack
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td align="center">
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</td>
+</tr>
+</table>
+
+---
+
 - 🔭 **Current Focus:** AI/ML, Data Science & Full Stack Development
 - 🎓 **Education:** B.Tech in Computer Science & Engineering
 - 💡 **Career Goal:** Data Scientist | AI/ML Engineer | Full Stack Developer
