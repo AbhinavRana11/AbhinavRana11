@@ -145,7 +145,7 @@ An AI-powered platform that connects students and researchers based on their res
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavRana11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavRana11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -160,9 +160,13 @@ An AI-powered platform that connects students and researchers based on their res
 
 # 🐍 Contribution Snake
 
-[<p align="center">
-<img src="https://raw.githubusercontent.com/AbhinavRana11/AbhinavRana11/output/github-contribution-grid-snake-dark.svg" />
-</p>](https://raw.githubusercontent.com/AbhinavRana11/AbhinavRana11/output/github-contribution-grid-snake-dark.svg)
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhinavRana11/AbhinavRana11/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
 
 ---
 
