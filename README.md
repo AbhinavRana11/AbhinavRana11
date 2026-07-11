@@ -133,14 +133,6 @@ An AI-powered platform that connects students and researchers based on their res
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavRana11&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 
 # 🐍 Contribution Snake
 
